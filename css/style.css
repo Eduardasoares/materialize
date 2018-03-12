@@ -1,0 +1,30 @@
+.slider .slides li .caption{
+	color: #33691e;
+}
+.textslider{
+	color: white;
+}
+.slider .slides li .caption {
+	top:40%;
+
+}
+.espacamentosuperior{
+	margin-top: 95vh;
+}
+
+.btn, .btn-large{
+	background-color:  #33691e;
+
+}
+.btn:hover , .btn-hover{
+	background-color: green;
+}
+.equipe{
+	padding-bottom: 25px;
+}
+.card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating){
+	color: green;
+}
+.card .card-image .card-title {
+	color:white;
+}
