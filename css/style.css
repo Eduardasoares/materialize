@@ -19,7 +19,7 @@
 .btn:hover , .btn-hover{
 	background-color: green;
 }
-.equipe{
+.equipe, .servico, .localizacao, .contato{
 	padding-bottom: 25px;
 }
 .card .card-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating){
@@ -28,3 +28,17 @@
 .card .card-image .card-title {
 	color:white;
 }
+.chip-custom{
+	display: block;
+	margin-bottom: 5px;
+}
+   .page-footer {
+   	padding-top: 20px;
+    background-color: grey;
+   }
+
+  .equipe, .servico, .localizacao, .contato, .rodape{
+  	opacity: 0;  /* class para scrollfire javascript*/
+  }
+
+    
